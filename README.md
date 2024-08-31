@@ -1,6 +1,7 @@
-# DevStrologer
 
-<img width="264" alt="logo" src="https://github.com/user-attachments/assets/65400e98-e500-46c6-8cc5-17d881f7a6cb">
+# DevStrologer
+https://github.com/user-attachments/assets/bf1a1c79-a61c-4ef7-aff7-0df83f98aeb4
+
 DevStrologer is a fun application that mixes actual horoscopes with developer personality based on some user input. The app generates personalized "Dev Horoscopes" for developers and tech enthusiasts.
 
 ## Features
@@ -10,6 +11,8 @@ DevStrologer is a fun application that mixes actual horoscopes with developer pe
 - **Responsive Design**: Fully responsive design that works seamlessly on mobile and desktop.
 
 ## Technology Stack
+
+
 
 - **Frontend**:
 
